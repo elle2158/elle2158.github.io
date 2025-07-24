@@ -1,0 +1,31 @@
+# PixieWorks by Elle Privacy Policy
+
+This repository hosts the Privacy Policy page for PixieWorks by Elle.  
+The policy is served via GitHub Pages at:  
+https://<your-username>.github.io/privacy-policy.html
+
+---
+
+## Files
+
+- `privacy-policy.html`  
+  The full Privacy Policy in standalone HTML form.
+
+- `README.md`  
+  This file, explaining repo purpose and update instructions.
+
+---
+
+## How to Update
+
+1. Clone the repo or edit directly in GitHub’s web editor.  
+2. Modify the `privacy-policy.html` content as needed.  
+3. Commit and push your changes to the `main` branch.  
+4. Wait a minute—GitHub Pages will automatically publish your updates.
+
+---
+
+## Contact
+
+For questions or suggestions, open an issue here or email:  
+ellevirtualassistant00@gmail.com
